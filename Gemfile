@@ -9,8 +9,12 @@ gem 'sqlite3'
 gem 'thin'
 gem 'shotgun'
 gem 'pry'
+<<<<<<< HEAD
 gem 'rack-flash3'
 #gem 'sinatra-flash'
+=======
+gem 'sinatra-flash'
+>>>>>>> 868bab99d90f3432cc7be808d0f745704a25c81b
 
 group :test do
   gem 'rspec'
